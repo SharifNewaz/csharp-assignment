@@ -1,0 +1,15 @@
+/Users/mohammadsharif/Antra/C#/Generics/Generics/bin/Debug/net6.0/Stack
+/Users/mohammadsharif/Antra/C#/Generics/Generics/bin/Debug/net6.0/Stack.deps.json
+/Users/mohammadsharif/Antra/C#/Generics/Generics/bin/Debug/net6.0/Stack.runtimeconfig.json
+/Users/mohammadsharif/Antra/C#/Generics/Generics/bin/Debug/net6.0/Stack.dll
+/Users/mohammadsharif/Antra/C#/Generics/Generics/bin/Debug/net6.0/ref/Stack.dll
+/Users/mohammadsharif/Antra/C#/Generics/Generics/bin/Debug/net6.0/Stack.pdb
+/Users/mohammadsharif/Antra/C#/Generics/Generics/obj/Debug/net6.0/Stack.csproj.AssemblyReference.cache
+/Users/mohammadsharif/Antra/C#/Generics/Generics/obj/Debug/net6.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadsharif/Antra/C#/Generics/Generics/obj/Debug/net6.0/Stack.AssemblyInfoInputs.cache
+/Users/mohammadsharif/Antra/C#/Generics/Generics/obj/Debug/net6.0/Stack.AssemblyInfo.cs
+/Users/mohammadsharif/Antra/C#/Generics/Generics/obj/Debug/net6.0/Stack.csproj.CoreCompileInputs.cache
+/Users/mohammadsharif/Antra/C#/Generics/Generics/obj/Debug/net6.0/Stack.dll
+/Users/mohammadsharif/Antra/C#/Generics/Generics/obj/Debug/net6.0/ref/Stack.dll
+/Users/mohammadsharif/Antra/C#/Generics/Generics/obj/Debug/net6.0/Stack.pdb
+/Users/mohammadsharif/Antra/C#/Generics/Generics/obj/Debug/net6.0/Stack.genruntimeconfig.cache
